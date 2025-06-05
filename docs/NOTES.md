@@ -39,6 +39,6 @@
 - Проект совместим с Angular CLI 17.2 и TypeScript 5.3.
 
 ---
-npm install -g json-server
+sudo npm install -g json-server
 http://localhost:3000/locations
-json-server --watch db.json
+json-server --watch db.json после этой команды появятся изображения
